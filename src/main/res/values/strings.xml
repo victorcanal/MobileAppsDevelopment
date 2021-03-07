@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">M1 Secure Development Mobile Applications</string>
+    <string name="title">Mobile Apps Development</string>
+    <string name="button_log">Connect</string>
+    <string name="aboutTextView">App created by Victor Canal and Thibault Buart</string>
+    <string name="hintAccountsTextView">Waiting for a connection…</string>
+    <string name="url">https://6007f1a4309f8b0017ee5022.mockapi.io/api/m1/accounts</string>
+    <string name="lastUpdated">Last Updated:</string>
+    <string name="never">Never</string>
+    <string name="refresh">Refresh</string>
+</resources>
