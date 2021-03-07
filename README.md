@@ -12,7 +12,15 @@ The content retrieved from the online API is saved in the app-specific files on 
 
 
 - Screenshots of your application<br/>
+
 ![image](https://user-images.githubusercontent.com/63497586/110257581-c31dc300-7f9e-11eb-89d4-9c828ce8e1e1.png)
+First screen of the app
 
 ![image](https://user-images.githubusercontent.com/63497586/110257587-cb75fe00-7f9e-11eb-952e-9ad4d108218a.png)
+The app asking for biometric authentication
 
+![image](https://user-images.githubusercontent.com/63497586/110258348-73d99180-7fa2-11eb-8510-55dddf674b7f.png)
+First access to the account display and no Internet connection is available (so no saved data on the device)
+
+![image](https://user-images.githubusercontent.com/63497586/110258383-a4213000-7fa2-11eb-8815-853e303fd5a3.png)
+After having turned cellular data on and pressed the refresh button/restarting the app
