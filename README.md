@@ -6,10 +6,9 @@ Repository for the A4 project of the Mobile Apps Development module
 To ensure the user starting the app is the correct one (I assume the owner of the device), I implemented a biometric authentication, requiring any fingerprint saved in the phone. As long as the owner of the device is the only one knowing its pin code and the only one with a registered fingerprint, the display of the account is safe. Also, resuming the app reinstantiate the first activity, with the required biometric authentication.
 
 - How do you securely save user's data on your phone ?<br/>
-The content retrieved from the online API is saved in the app-specific files on the device, 
-
+The content retrieved from the online API is saved in the app-specific files on the device. Android encrypts the location of the app-specific files, and I personally didn't manage do find the saved data in my emulator's storage.
 - How did you hide the API url ?<br/>
-
+The API url is not hidden in my code. I tried to use CMake and NDK to try to hide the url in a C++ library, but Gradle either is taking too much time to migrate and build my project with the new tools, either I forgot to add or to update a file for the migration.
 
 - Screenshots of your application<br/>
 
